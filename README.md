@@ -143,50 +143,6 @@ The project successfully:
 
 ---
 
-# File Structure
-
-```bash
-├── healthcare_mining_final.ipynb
-├── mental_health_burnout_tech_2026.csv
-└── README.md
-```
-
----
-
-# How to Run the Project
-
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/iouhyt6e54as/data_mining.git
-```
-
-## 2. Open the Project Folder
-
-```bash
-cd data_mining
-```
-
-## 3. Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn scipy sklearn-extra
-```
-
-## 4. Run the Notebook
-
-Open Jupyter Notebook and run:
-
-```bash
-jupyter notebook
-```
-
-Then open:
-
-`healthcare_mining_final.ipynb`
-
----
-
 # Future Improvements
 
 * Build a web application for prediction and visualization.
